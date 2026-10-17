@@ -80,5 +80,5 @@ This project answers key business questions such as:
 ---
 
 ## 👤 Author
-**Tharun Tej.K**
-Email: [tharuntejkilaru@gmail.com](mailto:tharuntejkilaru@gmail.com)
+**Ch.Varun**
+Email: [varun.chekur@gmail.com]
